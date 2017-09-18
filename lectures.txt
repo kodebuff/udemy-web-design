@@ -1,0 +1,49 @@
+s02-l05 INTRO TO WEB DESIGN
+
+The designer creates the look and feel.
+The developer builds it. (HTML, CSS, javascript)
+
+But the line between designers and developers is getting blurred.
+
+Flat Design - popularized by Microsoft and Apple
+
+------------------------------
+
+s02-l06 BEAUTIFUL TYPOGRAPHY
+
+Typography - the art and technique of arranging type to make written language readable and beautiful
+
+GOOD TYPOGRAPHY:
+1. Use a font size between 15 and 25 px for body text.
+2. Use really big font sizes for headlines (60px).
+3. Use line spacing, 120% or 150% of the font size.
+
+
+------------------------------
+
+
+
+------------------------------
+
+
+
+------------------------------
+
+
+
+------------------------------
+
+
+
+------------------------------
+
+
+
+------------------------------
+
+
+
+------------------------------
+
+
+
