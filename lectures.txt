@@ -17,7 +17,29 @@ GOOD TYPOGRAPHY:
 1. Use a font size between 15 and 25 px for body text.
 2. Use really big font sizes for headlines (60px).
 3. Use line spacing, 120% or 150% of the font size.
-
+4. 45 to 90 characters per line
+5. Use good looking fonts.
+    A. Sans-serif
+        - more neutral
+        - clean
+        - simple
+        - modern
+    B. Serif
+        - traditional
+        - story telling
+        - long reading
+    C. Good Fonts Sans (google fonts)
+        - Open Sans
+        - Lato
+        - Raleway
+        - Monsterrat
+        - PT Sans
+    D. Google Fonts Serif
+        - Cardo
+        - Merriweather
+        - PT Serif
+   
+        
 
 ------------------------------
 
